@@ -58,7 +58,7 @@ private
     }.first
   end
 
-  KERNEL_FOLLOW = [
+KERNEL_FOLLOW = [#asdfsadf
     [ 0,  0,  1,  0,  0 ],
     [ 0, -1,  3, -1,  0 ],
     [ 1,  3,  0,  3,  1 ],
