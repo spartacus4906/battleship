@@ -7,6 +7,7 @@ class PaulBattleyWeightedPlayer
   def name
     "Paul Battley's Weighted Player"
   end
+    #comment up top
 
   def new_game
     @free = 10.times.map{ |y|
